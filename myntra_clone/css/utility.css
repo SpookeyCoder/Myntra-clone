@@ -1,0 +1,33 @@
+.flex{
+    display: flex;
+
+}
+.flex-direction-column{
+    flex-direction: column;
+}
+.align-items{
+    align-items: center;
+}
+
+.justify-content{
+    justify-content: center;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.semibold{
+    font-weight: bold;
+    font-size: 14px ;
+}
+.mx-2{
+    padding-left: 12px;
+}
+.font-style{
+    font-family: 'Roboto', sans-serif;
+}
